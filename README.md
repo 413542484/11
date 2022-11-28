@@ -1,7 +1,7 @@
 #### 我是一首歌
 
 #### 1
-<audio id="audio" controls="" preload="none" style="width:86;height:86">
+<audio id="audio" controls="" preload="none" style="width=86;height=86">
       <source id="mp3" src="./spk1.wav">
 </audio>
 
